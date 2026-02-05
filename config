@@ -1,0 +1,25 @@
+anchor = bottom
+width = 60%
+height = 30
+horizontal = true
+font-size = 14
+prompt-text = ""
+#font = /usr/share/fonts/noto/NotoSans-Bold.ttf
+font = /usr/share/fonts/TTF/Roboto-Black.ttf
+outline-width = 0
+border-width = 0
+
+background-color = #00000000
+text-color = 22FF33
+
+min-input-width = 120
+result-spacing = 15
+padding-top = 0
+padding-bottom = 0
+padding-left = 0
+padding-right = 0 
+text-cursor = true
+hide-cursor = true
+require-match = false
+terminal = kitty
+drun-terminal = kitty
